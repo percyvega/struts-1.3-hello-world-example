@@ -7,6 +7,7 @@
     <groupId>com.percyvega</groupId>
     <artifactId>struts-1.3-hello-world-example</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>war</packaging>
 
     <dependencies>
         <dependency>
@@ -27,5 +28,9 @@
             <version>1.3.10</version>
         </dependency>
     </dependencies>
+
+    <build>
+        <finalName>struts-hw</finalName>
+    </build>
 
 </project>
