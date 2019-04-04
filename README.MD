@@ -1,4 +1,4 @@
-##Sample Struts 1.3 application
+## Sample Struts 1.3 application
 
 Once deployed in a container, the struts action is available on :  
 
